@@ -1,3 +1,30 @@
-# ConditionGame
-## Project with american student 
-Game about a person with autism who trying to make social connections.
+
+# Conditioning game
+### Contributors
+**Sanyo4ek373, vorobiova2005, AnnaHana25, VollodinGleb**
+
+## Description
+Conditioning is a short narrative-driven video game inspired by titles like One of Them and Depression Quest. It explores the challenges of living with Autism, focusing on how current school systems often single out Autistic kids, impacting their confidence and sense of belonging.
+
+The story follows a player character diagnosed with Autism at a young age, navigating the social complexities of being separated from their original group of six friends for weekly sessions with other Autistic students. The game highlights the struggle of maintaining friendships while facing societal misunderstandings and biases. Players will engage in dialogue choices and interactions, attempting to preserve old friendships and forge new ones, with outcomes shaped by how they handle these delicate relationships.
+
+**A short summary of your game:**  
+- Genre: (e.g., Platformer, RPG, Puzzle)  
+- Target audience: (e.g., casual players, competitive gamers)  
+- Unique features: (e.g., engaging storyline, innovative mechanics)  
+
+## Features
+- 🎮 **Gameplay Mechanics**: ...  
+- 🌍 **World Design**: ...  
+- ...
+
+### Screenshots
+Include visuals to showcase game.
+...
+
+### **Installation Instructions**
+1. Download [Unity Hub](https://unity.com/ru/download "Download Hub")
+2. Download current version of engine [2022.3.53f1](https://unity.com/ru/releases/editor/archive "Download current version")
+1. Clone the repository:  
+   ```bash
+   https://github.com/VollodinGleb/ConditionGame.git
