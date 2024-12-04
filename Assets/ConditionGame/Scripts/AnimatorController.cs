@@ -6,14 +6,10 @@ public class AnimatorController : MonoBehaviour
 {
     private MovementState m_movement;
 
-
     private Dictionary<Direction, int> m_anims_move;
     private Dictionary<Direction, int> m_anims_idle;
 
     private Animator m_animator;
-
-    //===============================================================//
-    // Lifecycles 
 
     private void Awake()
     {

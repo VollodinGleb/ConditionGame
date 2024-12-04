@@ -61,8 +61,8 @@ public class PlayerMovement : MonoBehaviour
 
     private bool CanMove(Vector2 moveDirection, float moveDistance)
     {
-        float playerRadius = 0.2f;
-        Vector2 playerPosition = transform.position;
+        float playerRadius = 0.4f;
+        Vector2 playerPosition = new(transform.position.x, transform.position.y - 0.6f);
 
         RaycastHit2D hit = Physics2D.CircleCast(playerPosition, playerRadius, moveDirection, moveDistance, _layerMask);
         return hit.collider == null;

@@ -3,21 +3,13 @@ using UnityEngine;
 
 public class MovementState : MonoBehaviour
 {
-    //=======================================//
-    // Events
-
     public event Action OnChangeMoveState = null;
     public event Action OnChangeDirection = null;
 
-    //=======================================//
-    // Props 
-
     [field: SerializeField] public float MoveSpeed { get; set; }
+
     public bool IsStay => !IsMove;
 
-    /// <summary>
-    /// Handled in OnChangeDirection
-    /// </summary>
     public Direction Direction
     {
         get => m_direction;
@@ -31,9 +23,6 @@ public class MovementState : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Handled in OnChangeMoveState
-    /// </summary>
     public bool IsMove
     {
         get => m_isMove;
@@ -46,9 +35,6 @@ public class MovementState : MonoBehaviour
             OnChangeMoveState?.Invoke();
         }
     }
-
-    //=======================================//
-    // Members
 
     private Direction m_direction = Direction.DOWN;
     private bool m_isMove = false;
@@ -79,22 +65,13 @@ public static class DirectionUtils
 
     public static string ToPrettyString(this Direction _direction)
     {
-        switch (_direction)
+        return _direction switch
         {
-            case Direction.UP:
-                return "Up";
-
-            case Direction.RIGHT:
-                return "Right";
-
-            case Direction.DOWN:
-                return "Down";
-
-            case Direction.LEFT:
-                return "Left";
-
-            default:
-                throw new ArgumentException($"Can't convert to pretty string {nameof(_direction)}: '{_direction}'");
-        }
+            Direction.UP => "Up",
+            Direction.RIGHT => "Right",
+            Direction.DOWN => "Down",
+            Direction.LEFT => "Left",
+            _ => throw new ArgumentException($"Can't convert to pretty string {nameof(_direction)}: '{_direction}'"),
+        };
     }
 }
