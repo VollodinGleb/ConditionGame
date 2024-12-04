@@ -1,4 +1,6 @@
+using DialogueEditor;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -8,9 +10,21 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask _layerMask;
 
     private Vector3 _lastInteractDirection;
+    private bool _isSpeaking = false;
+
+    private void Start()
+    {
+        ConversationManager.OnConversationEnded += HandleEndDialog;
+    }
+
+    private void HandleEndDialog()
+    {
+        _isSpeaking = false;
+    }
 
     private void Update()
     {
+        if (_isSpeaking) return;
         Vector2 inputVector = _gameInput.GetMovementVectorNormalized();
         Vector3 moveDirection = new(inputVector.x, inputVector.y, 0f);
 
@@ -18,19 +32,31 @@ public class PlayerMovement : MonoBehaviour
         HandleInteractions(moveDirection);
     }
 
-    private void HandleInteractions(Vector3 moveDirection)
+    private void OnDestroy()
     {
-        if (moveDirection != Vector3.zero) _lastInteractDirection = moveDirection;
+        ConversationManager.OnConversationEnded -= HandleEndDialog;
+    }
 
-        float interactDistance = 1f;
-        if (Physics.Raycast(transform.position, _lastInteractDirection, out RaycastHit raycastHit, interactDistance, _layerMask))
+    private void HandleInteractions(Vector2 moveDirection)
+    {
+        if (_isSpeaking) return;
+        if (moveDirection != Vector2.zero)
+            _lastInteractDirection = moveDirection;
+
+        float interactDistance = 0.5f;
+
+        if (Keyboard.current.eKey.wasPressedThisFrame)
         {
-            // if (raycastHit.transform.TryGetComponent(out ClearCounter clearCounter))
-            // {
-            //     clearCounter.Interact();
-            // }
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, _lastInteractDirection, interactDistance, _layerMask);
+
+            if (hit.collider != null && hit.collider.TryGetComponent(out NPC npc))
+            {
+                npc.Speak();
+                _isSpeaking = true;
+            }
         }
     }
+
 
     private void HandleMovement(Vector3 moveDirection)
     {

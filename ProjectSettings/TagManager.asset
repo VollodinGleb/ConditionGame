@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - NPC
   - Water
   - UI
   - 
@@ -52,4 +52,7 @@ TagManager:
     locked: 0
   - name: Characters
     uniqueID: 994492071
+    locked: 0
+  - name: UI
+    uniqueID: 2994607357
     locked: 0
