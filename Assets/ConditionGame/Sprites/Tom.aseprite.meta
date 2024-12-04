@@ -2,7 +2,27 @@ fileFormatVersion: 2
 guid: 9035d6f159c2fdd4a9e89cfd2689a7a4
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Bottom
+    second: {fileID: 7400000, guid: a23ec98e4aacccb40ba93c41f6f60585, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Left
+    second: {fileID: 7400000, guid: 2bb73e827043e054698d62e436502b4c, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Right
+    second: {fileID: 7400000, guid: f045871c952e0884a89a8de3b5277522, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Top
+    second: {fileID: 7400000, guid: ccbe185270e7d8e41a49e1ef145145a2, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -35,7 +55,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 100
+    spritePixelsToUnits: 32
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +117,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638688330407969057
+  platformSettingsDirtyTick: 638689453675720529
   textureAssetName: 
   singleSpriteImportData:
   - name: 

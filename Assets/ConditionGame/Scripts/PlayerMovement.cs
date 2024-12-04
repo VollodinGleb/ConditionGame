@@ -4,19 +4,15 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float _moveSpeed;
     [SerializeField] private GameInput _gameInput;
+    [SerializeField] private MovementState _movementState;
     [SerializeField] private LayerMask _layerMask;
 
     private Vector3 _lastInteractDirection;
 
-    private bool _isWalking = false;
-    public bool IsWalking => _isWalking;
-
     private void Update()
     {
         Vector2 inputVector = _gameInput.GetMovementVectorNormalized();
-        Vector3 moveDirection = new(inputVector.x, 0f, inputVector.y);
-
-        _isWalking = moveDirection != Vector3.zero;
+        Vector3 moveDirection = new(inputVector.x, inputVector.y, 0f);
 
         HandleMovement(moveDirection);
         HandleInteractions(moveDirection);
@@ -44,27 +40,31 @@ public class PlayerMovement : MonoBehaviour
         if (!canMove)
         {
             Vector3 moveDirectionX = new Vector3(moveDirection.x, 0, 0).normalized;
-            canMove = CanMove(moveDirection, moveDistance);
+            canMove = CanMove(moveDirectionX, moveDistance);
 
             if (canMove) moveDirection = moveDirectionX;
             else
             {
-                Vector3 moveDirectionZ = new Vector3(0, 0, moveDirection.z).normalized;
-                canMove = CanMove(moveDirection, moveDistance);
+                Vector3 moveDirectionY = new Vector3(0, moveDirection.y, 0).normalized;
+                canMove = CanMove(moveDirectionY, moveDistance);
 
-                if (canMove) moveDirection = moveDirectionZ;
+                if (canMove) moveDirection = moveDirectionY;
             }
         }
 
         if (canMove) transform.position += moveDirection * moveDistance;
+
+        _movementState.IsMove = moveDirection != Vector3.zero;
+        if (_movementState.IsMove)
+            _movementState.Direction = DirectionUtils.Get4DirectionFromVector(moveDirection);
     }
 
     private bool CanMove(Vector2 moveDirection, float moveDistance)
     {
-        float playerRadius = 0.5f;
+        float playerRadius = 0.2f;
         Vector2 playerPosition = transform.position;
 
-        RaycastHit2D hit = Physics2D.CircleCast(playerPosition, playerRadius, moveDirection, moveDistance);
+        RaycastHit2D hit = Physics2D.CircleCast(playerPosition, playerRadius, moveDirection, moveDistance, _layerMask);
         return hit.collider == null;
     }
 }
