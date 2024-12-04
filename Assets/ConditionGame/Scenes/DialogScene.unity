@@ -156,7 +156,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: f71c0dc03d067a342aa16a51674f6507, type: 3}
+  Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!4 &93188956
 Transform:
@@ -393,7 +393,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -6300433899113185851, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &571761458
 GameObject:
@@ -425,9 +425,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 3
-  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":1}],"EditorInfo":{"isRoot":true,"xPos":269.199982,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"DAVID,
-    GET BACK HERE!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Ashley","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":2}],"EditorInfo":{"isRoot":false,"xPos":268.399963,"yPos":133.6},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"Ashley
-    runs away","parentUIDs":[0],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":273.999969,"yPos":256.8},"ID":2,"ParamActions":[],"TMPFontGUID":null,"Text":"(Bell
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":1}],"EditorInfo":{"isRoot":true,"xPos":185.6,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"DAVID,
+    GET BACK HERE!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Ashley","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":2}],"EditorInfo":{"isRoot":false,"xPos":184.799988,"yPos":133.6},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"Ashley
+    runs away","parentUIDs":[0],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":190.4,"yPos":256.8},"ID":2,"ParamActions":[],"TMPFontGUID":null,"Text":"(Bell
     rings)","parentUIDs":[1],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
@@ -488,8 +488,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 2
-  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":1}],"EditorInfo":{"isRoot":true,"xPos":259.2,"yPos":82.8},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"HEY,
-    GET BACK HERE!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Ashley","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":264.400055,"yPos":192.000015},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"(Ashley
+  json: '{"Options":[],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":1}],"EditorInfo":{"isRoot":true,"xPos":185.6,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"HEY,
+    GET BACK HERE!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Ashley","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":190.800049,"yPos":131.200012},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"(Ashley
     runs away)","parentUIDs":[0],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":null,"OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: 
@@ -558,7 +558,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 7
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!4 &876475060
 Transform:
@@ -592,7 +592,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 6
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &876475062
 MonoBehaviour:
@@ -649,7 +649,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 3
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &876475065
 MonoBehaviour:
@@ -668,7 +668,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 21300000, guid: f71c0dc03d067a342aa16a51674f6507, type: 3}
+  Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!1 &963196003
 GameObject:
@@ -700,7 +700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 1
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":268,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(The
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[],\"EditorInfo\":{\"isRoot\":true,\"xPos\":96,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(The
     door is locked. I can't get in there unless I want \u201Cproperty damage\u201D
     on my record.)\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
@@ -827,7 +827,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 1
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!4 &981574942
 Transform:
@@ -861,7 +861,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574944
 MonoBehaviour:
@@ -937,7 +937,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 8
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574948
 MonoBehaviour:
@@ -956,7 +956,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 7
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574949
 MonoBehaviour:
@@ -975,7 +975,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 6
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574950
 MonoBehaviour:
@@ -994,7 +994,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 5
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574951
 MonoBehaviour:
@@ -1013,7 +1013,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 4
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574952
 MonoBehaviour:
@@ -1032,7 +1032,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 3
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574953
 MonoBehaviour:
@@ -1051,7 +1051,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 2
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574954
 MonoBehaviour:
@@ -1070,7 +1070,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 33
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6942307755244601566, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574955
 MonoBehaviour:
@@ -1089,7 +1089,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 32
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 1318749306150361223, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574956
 MonoBehaviour:
@@ -1146,7 +1146,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 29
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574959
 MonoBehaviour:
@@ -1165,7 +1165,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 28
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 2000392886669213173, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574960
 MonoBehaviour:
@@ -1184,7 +1184,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 27
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 1318749306150361223, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574961
 MonoBehaviour:
@@ -1279,7 +1279,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 22
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 2000392886669213173, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574966
 MonoBehaviour:
@@ -1298,7 +1298,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 21
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574967
 MonoBehaviour:
@@ -1317,7 +1317,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 20
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 1318749306150361223, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574968
 MonoBehaviour:
@@ -1336,7 +1336,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 19
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574969
 MonoBehaviour:
@@ -1355,7 +1355,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 18
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 1318749306150361223, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574970
 MonoBehaviour:
@@ -1374,7 +1374,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 17
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 2000392886669213173, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574971
 MonoBehaviour:
@@ -1393,7 +1393,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 16
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 1318749306150361223, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574972
 MonoBehaviour:
@@ -1412,7 +1412,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 15
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574973
 MonoBehaviour:
@@ -1431,7 +1431,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 14
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574974
 MonoBehaviour:
@@ -1450,7 +1450,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 13
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574975
 MonoBehaviour:
@@ -1469,7 +1469,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 12
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574976
 MonoBehaviour:
@@ -1488,7 +1488,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 44
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -6300433899113185851, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574977
 MonoBehaviour:
@@ -1507,7 +1507,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 43
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574978
 MonoBehaviour:
@@ -1526,7 +1526,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 42
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -6300433899113185851, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574979
 MonoBehaviour:
@@ -1545,7 +1545,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 41
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574980
 MonoBehaviour:
@@ -1564,7 +1564,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 40
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 4259429330347914534, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574981
 MonoBehaviour:
@@ -1583,7 +1583,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 39
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 2000392886669213173, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574982
 MonoBehaviour:
@@ -1621,7 +1621,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 37
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 4259429330347914534, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574984
 MonoBehaviour:
@@ -1640,7 +1640,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 36
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 2000392886669213173, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574985
 MonoBehaviour:
@@ -1659,7 +1659,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 35
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574986
 MonoBehaviour:
@@ -1735,7 +1735,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 46
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574990
 MonoBehaviour:
@@ -1792,7 +1792,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 63
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574993
 MonoBehaviour:
@@ -1811,7 +1811,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 62
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -6300433899113185851, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574994
 MonoBehaviour:
@@ -1830,7 +1830,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 61
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574995
 MonoBehaviour:
@@ -1849,7 +1849,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 60
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574996
 MonoBehaviour:
@@ -1868,7 +1868,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 59
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -6300433899113185851, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574997
 MonoBehaviour:
@@ -1887,7 +1887,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 58
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -4449348845929723899, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574998
 MonoBehaviour:
@@ -1906,7 +1906,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 57
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 4259429330347914534, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981574999
 MonoBehaviour:
@@ -1925,7 +1925,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 56
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 2000392886669213173, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981575000
 MonoBehaviour:
@@ -1944,7 +1944,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 55
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981575001
 MonoBehaviour:
@@ -2020,7 +2020,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 51
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &981575005
 MonoBehaviour:
@@ -2130,7 +2130,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -3654618178434721110, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &1125321292
 GameObject:
@@ -2162,73 +2162,73 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 65
-  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-249.199585,\"yPos\":67.0205841},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Got
-    an A+ on Math Pop Quiz.\",\"parentUIDs\":[8],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":45.2001038,\"yPos\":69.4209747},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Had
-    Caramel Crackers for Breakfast\",\"parentUIDs\":[8],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":308.400024,\"yPos\":69.42049},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Failed
-    my English Quiz.\",\"parentUIDs\":[8],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":26}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-266.799622,\"yPos\":1242.23071},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Imply
-    a misunderstanding)\",\"parentUIDs\":[22],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":34}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":41.2001038,\"yPos\":1243.03052},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Comfort
-    Ashley)\",\"parentUIDs\":[22],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":50}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":339.60022,\"yPos\":1243.031},\"ID\":25,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Try
-    to alleviate them with Comedy)\",\"parentUIDs\":[22],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":63.6000061,\"yPos\":-1001.19989},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"So,
-    everyone, happy hump day, how is your day going today!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":65.19998,\"yPos\":-888.7994},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Joe,
-    you know, I\u2019m getting sick of you asking that almost every day.\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":60.3999329,\"yPos\":-768.7935},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Well,
+  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":14}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-347.199615,\"yPos\":-2726.58081},\"ID\":9,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Got
+    an A+ on Math Pop Quiz.\",\"parentUIDs\":[8],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":13}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-52.79985,\"yPos\":-2724.18042},\"ID\":10,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Had
+    Caramel Crackers for Breakfast\",\"parentUIDs\":[8],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":12}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":210.399719,\"yPos\":-2724.181},\"ID\":11,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Failed
+    my English Quiz.\",\"parentUIDs\":[8],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":26}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-364.799652,\"yPos\":-1551.37036},\"ID\":23,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Imply
+    a misunderstanding)\",\"parentUIDs\":[22],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":34}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-56.79988,\"yPos\":-1550.57056},\"ID\":24,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Comfort
+    Ashley)\",\"parentUIDs\":[22],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":50}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":241.59964,\"yPos\":-1550.57007},\"ID\":25,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Try
+    to alleviate them with Comedy)\",\"parentUIDs\":[22],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":-34.3999176,\"yPos\":-3794.80249},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"So,
+    everyone, happy hump day, how is your day going today!\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-32.799942,\"yPos\":-3682.40161},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Joe,
+    you know, I\u2019m getting sick of you asking that almost every day.\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-37.59999,\"yPos\":-3562.39624},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Well,
     you better get used to it, Dave, 'cause I\u2019ll always need to know what you\u2019ve
-    been up to!\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":58.7999573,\"yPos\":-653.588562},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"*groan*
-    \\nFine, I had waffles for breakfast, and I...\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":56.4000549,\"yPos\":-534.385437},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Was
-    it homemade?\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":53.19998,\"yPos\":-404.783051},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Let
+    been up to!\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-39.1999359,\"yPos\":-3447.19165},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"*groan*
+    \\nFine, I had waffles for breakfast, and I...\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-41.59984,\"yPos\":-3327.988},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Was
+    it homemade?\",\"parentUIDs\":[3],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-44.799942,\"yPos\":-3198.38452},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Let
     me finish first! Jeez! I ate breakfast and then flunked my stupid science test
     in the first period; I probably should have spent more time studying than setting
-    up that prank yesterday. Oh, and the waffle was frozen.\",\"parentUIDs\":[4],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":52.4000549,\"yPos\":-289.582825},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"That
-    sucks, man; Wait, whose the prank on?\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":53.19998,\"yPos\":-168.781555},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"A
-    magician never reveals his secrets.\\n*short laugh*\\n How was your day, Joe?\",\"parentUIDs\":[6],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":49.19998,\"yPos\":-67.18146},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"It
+    up that prank yesterday. Oh, and the waffle was frozen.\",\"parentUIDs\":[4],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-45.59987,\"yPos\":-3083.18335},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"That
+    sucks, man; Wait, whose the prank on?\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":8}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-44.799942,\"yPos\":-2962.383},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"A
+    magician never reveals his secrets.\\n*short laugh*\\n How was your day, Joe?\",\"parentUIDs\":[6],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":9},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":10},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":11}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-47.1999664,\"yPos\":-2856.782},\"ID\":8,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"It
     was good. I got eggs and toast for breakfast, and my art project got an A+, so
-    I feel pretty great right now. How about you, MC? What was your day like?\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":328.400146,\"yPos\":159.222214},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"How
-    did you do that MC? You speak English!\",\"parentUIDs\":[11],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":43.60013,\"yPos\":154.4219},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Nice,
-    Caramel Crackers are pretty good; I\u2019m more of a Yapper Snappers fan.\",\"parentUIDs\":[10],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-253.999634,\"yPos\":149.62204},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Well,
-    aren\u2019t you a smart fellow? Congrats MC!\",\"parentUIDs\":[9],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":46.0001526,\"yPos\":312.02597},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"How
-    about you, Ashley? You\u2019ve been pretty quiet; how was your day?\",\"parentUIDs\":[12,13,14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":39.60013,\"yPos\":425.628},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
-    well, I had a pretty bad day.\",\"parentUIDs\":[15],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":42.80008,\"yPos\":551.2277},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"What
-    happened?\",\"parentUIDs\":[16],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":45.2001038,\"yPos\":665.6297},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...my
-    parents got in a fight.\",\"parentUIDs\":[17],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":43.60013,\"yPos\":775.2293},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Damn,
-    do you want to talk about?\",\"parentUIDs\":[18],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":43.60013,\"yPos\":893.6292},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I
+    I feel pretty great right now. How about you, MC? What was your day like?\",\"parentUIDs\":[7],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":230.399719,\"yPos\":-2634.37866},\"ID\":12,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"How
+    did you do that MC? You speak English!\",\"parentUIDs\":[11],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-54.399826,\"yPos\":-2639.179},\"ID\":13,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Nice,
+    Caramel Crackers are pretty good; I\u2019m more of a Yapper Snappers fan.\",\"parentUIDs\":[10],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":15}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-351.999664,\"yPos\":-2643.97925},\"ID\":14,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Well,
+    aren\u2019t you a smart fellow? Congrats MC!\",\"parentUIDs\":[9],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":16}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-61.59987,\"yPos\":-2485.575},\"ID\":15,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"How
+    about you, Ashley? You\u2019ve been pretty quiet; how was your day?\",\"parentUIDs\":[12,13,14],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":17}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-58.3998566,\"yPos\":-2367.97339},\"ID\":16,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
+    well, I had a pretty bad day.\",\"parentUIDs\":[15],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":18}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-55.1998749,\"yPos\":-2242.3728},\"ID\":17,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"What
+    happened?\",\"parentUIDs\":[16],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":19}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-52.79985,\"yPos\":-2127.971},\"ID\":18,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...my
+    parents got in a fight.\",\"parentUIDs\":[17],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":20}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-54.399826,\"yPos\":-2018.37158},\"ID\":19,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Damn,
+    do you want to talk about?\",\"parentUIDs\":[18],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":21}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-54.399826,\"yPos\":-1899.97168},\"ID\":20,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I
     didn\u2019t hear much; My dad was just mad about my mom doing something with
-    the neighbor.\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":42.0001526,\"yPos\":1010.43011},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":25}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":41.2001038,\"yPos\":1126.43042},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[21],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":27}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-271.59967,\"yPos\":1335.23145},\"ID\":26,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Well,
-    you probably just misheard him.\",\"parentUIDs\":[23],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":28}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-273.999634,\"yPos\":1450.43066},\"ID\":27,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Misheard
+    the neighbor.\",\"parentUIDs\":[19],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":22}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-55.9998,\"yPos\":-1783.17114},\"ID\":21,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[20],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":23},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":24},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":25}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-51.1998138,\"yPos\":-1661.57056},\"ID\":22,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[21],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":27}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-369.5997,\"yPos\":-1458.3689},\"ID\":26,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Well,
+    you probably just misheard him.\",\"parentUIDs\":[23],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":28}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-371.999664,\"yPos\":-1343.16968},\"ID\":27,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Misheard
     him? I could barely hear them talking. What do you think they were talking about?
-    \",\"parentUIDs\":[26],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":29}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-274.799622,\"yPos\":1569.63037},\"ID\":28,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Uh
-    yeah, MC, What do you think they were talking about?\",\"parentUIDs\":[27],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":30}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-269.999634,\"yPos\":1696.03027},\"ID\":29,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[28],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":31}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-275.59967,\"yPos\":1812.83032},\"ID\":30,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I\u2026
-    I\u2026 uh\u2026\",\"parentUIDs\":[29],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":32}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-273.999634,\"yPos\":1940.02881},\"ID\":31,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[30],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":33}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-270.799622,\"yPos\":2059.227},\"ID\":32,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...I
-    think I should get going. See you guys tomorrow.\",\"parentUIDs\":[31],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":48}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-274.799622,\"yPos\":2184.02734},\"ID\":33,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
-    same; I got to my next class, bye.\",\"parentUIDs\":[32],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":35}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.00003,\"yPos\":1331.21826},\"ID\":34,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I\u2019m
-    sorry you had a bad morning, Ashley.\",\"parentUIDs\":[24],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":36}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.7999573,\"yPos\":1449.61816},\"ID\":35,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
-    sorry to hear that, Ash.\",\"parentUIDs\":[34],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":37}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.00003,\"yPos\":1575.21875},\"ID\":36,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
-    same.\",\"parentUIDs\":[35],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":38}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.00003,\"yPos\":1698.418},\"ID\":37,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Thanks,
+    \",\"parentUIDs\":[26],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":29}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-372.799652,\"yPos\":-1223.969},\"ID\":28,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Uh
+    yeah, MC, What do you think they were talking about?\",\"parentUIDs\":[27],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":30}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-367.999664,\"yPos\":-1097.56982},\"ID\":29,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[28],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":31}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-373.5997,\"yPos\":-980.770142},\"ID\":30,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I\u2026
+    I\u2026 uh\u2026\",\"parentUIDs\":[29],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":32}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-371.999664,\"yPos\":-853.572754},\"ID\":31,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[30],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":33}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-368.799652,\"yPos\":-734.3744},\"ID\":32,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...I
+    think I should get going. See you guys tomorrow.\",\"parentUIDs\":[31],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":48}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-372.799652,\"yPos\":-609.5742},\"ID\":33,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
+    same; I got to my next class, bye.\",\"parentUIDs\":[32],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":35}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.9999542,\"yPos\":-1462.38232},\"ID\":34,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I\u2019m
+    sorry you had a bad morning, Ashley.\",\"parentUIDs\":[24],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":36}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.2000275,\"yPos\":-1343.98242},\"ID\":35,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
+    sorry to hear that, Ash.\",\"parentUIDs\":[34],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":37}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.9999542,\"yPos\":-1218.38086},\"ID\":36,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah,
+    same.\",\"parentUIDs\":[35],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":38}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.9999542,\"yPos\":-1095.18213},\"ID\":37,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Thanks,
     guys, it wasn\u2019t all that bad though. Mom made \u201CApology Pancakes\u201D;
-    they were good.\",\"parentUIDs\":[36],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":39}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.80008,\"yPos\":1816.01831},\"ID\":38,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Sounds
-    lovely.\",\"parentUIDs\":[37],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":40}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":42.4000549,\"yPos\":1945.61768},\"ID\":39,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Uh,
-    Ashley, I got to tell you something.\",\"parentUIDs\":[38],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":41}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":39.2001038,\"yPos\":2068.0166},\"ID\":40,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"What
-    is it?\",\"parentUIDs\":[39],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":42}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":37.60013,\"yPos\":2193.6167},\"ID\":41,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Don\u2019t
-    open your locker.\",\"parentUIDs\":[40],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":43}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":38.4000549,\"yPos\":2317.61475},\"ID\":42,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Wait\u2026
-    did you put a prank in my locker?\",\"parentUIDs\":[41],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":44}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":39.2001038,\"yPos\":2444.01514},\"ID\":43,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah\u2026
-    sorry.\",\"parentUIDs\":[42],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":45}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.0001526,\"yPos\":2573.61377},\"ID\":44,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"David,
+    they were good.\",\"parentUIDs\":[36],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":39}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.1999054,\"yPos\":-977.5823},\"ID\":38,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Sounds
+    lovely.\",\"parentUIDs\":[37],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":40}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-55.5999,\"yPos\":-847.984253},\"ID\":39,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Uh,
+    Ashley, I got to tell you something.\",\"parentUIDs\":[38],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":41}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-58.79988,\"yPos\":-725.584839},\"ID\":40,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"What
+    is it?\",\"parentUIDs\":[39],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":42}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-60.3998566,\"yPos\":-599.984863},\"ID\":41,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Don\u2019t
+    open your locker.\",\"parentUIDs\":[40],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":43}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-59.59993,\"yPos\":-475.987183},\"ID\":42,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Wait\u2026
+    did you put a prank in my locker?\",\"parentUIDs\":[41],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":44}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-58.79988,\"yPos\":-349.5866},\"ID\":43,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yeah\u2026
+    sorry.\",\"parentUIDs\":[42],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":45}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.9998322,\"yPos\":-219.988449},\"ID\":44,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"David,
     I swear, if my locker is full of milk, I kick your a...\",\"parentUIDs\":[43],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley
-    \",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":46}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":42.4000549,\"yPos\":2692.0127},\"ID\":45,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Bell
-    rings)\",\"parentUIDs\":[44],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":49}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":42.400177,\"yPos\":2814.415},\"ID\":46,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Saved
-    by the bell, see you later!\",\"parentUIDs\":[45],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-278.39975,\"yPos\":2297.6},\"ID\":48,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Ashley
-    and David both leave.)\",\"parentUIDs\":[33],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":40.0002747,\"yPos\":2939.99951},\"ID\":49,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(David
-    runs away)\",\"parentUIDs\":[46],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":51}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":344.400024,\"yPos\":1334.3999},\"ID\":50,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Hey,
-    did you guys see that new Slimeville video?\",\"parentUIDs\":[25],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":52}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":347.599976,\"yPos\":1461.59912},\"ID\":51,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"The
-    one with the Walrus?\",\"parentUIDs\":[50],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":53}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":343.599976,\"yPos\":1579.19873},\"ID\":52,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yep,
-    check this out.\",\"parentUIDs\":[51],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":54}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":343.599976,\"yPos\":1697.59863},\"ID\":53,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(You
-    take two baby carrots and put them in your mouth)\",\"parentUIDs\":[52],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":55}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":343.599976,\"yPos\":1812.79907},\"ID\":54,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I\u2019m
-    Florp the Walrus, and you will drink my tomato soup OR ELSE!\",\"parentUIDs\":[53],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":56}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":346.800049,\"yPos\":1941.59961},\"ID\":55,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[54],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":57}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":344.400024,\"yPos\":2063.19922},\"ID\":56,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[55],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":58}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":346,\"yPos\":2199.99951},\"ID\":57,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[56],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":59}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":342,\"yPos\":2319.19873},\"ID\":58,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Oh
-    my god, that was\u2026 hilarious!\",\"parentUIDs\":[57],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":60}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":346,\"yPos\":2442.399},\"ID\":59,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I
+    \",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":46}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-55.5999,\"yPos\":-101.589981},\"ID\":45,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Bell
+    rings)\",\"parentUIDs\":[44],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":49}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-55.5997772,\"yPos\":20.8118134},\"ID\":46,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Saved
+    by the bell, see you later!\",\"parentUIDs\":[45],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-376.39975,\"yPos\":-496.0017},\"ID\":48,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Ashley
+    and David both leave.)\",\"parentUIDs\":[33],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-57.99971,\"yPos\":146.396164},\"ID\":49,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(David
+    runs away)\",\"parentUIDs\":[46],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":51}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":246.3995,\"yPos\":-1459.20044},\"ID\":50,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Hey,
+    did you guys see that new Slimeville video?\",\"parentUIDs\":[25],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":52}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":249.5994,\"yPos\":-1332.00122},\"ID\":51,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"The
+    one with the Walrus?\",\"parentUIDs\":[50],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":53}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":245.5994,\"yPos\":-1214.40088},\"ID\":52,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yep,
+    check this out.\",\"parentUIDs\":[51],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":54}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":245.5994,\"yPos\":-1096.00146},\"ID\":53,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(You
+    take two baby carrots and put them in your mouth)\",\"parentUIDs\":[52],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":55}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":245.5994,\"yPos\":-980.8014},\"ID\":54,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I\u2019m
+    Florp the Walrus, and you will drink my tomato soup OR ELSE!\",\"parentUIDs\":[53],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":56}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":251.199463,\"yPos\":-850.4022},\"ID\":55,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[54],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":57}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":251.199463,\"yPos\":-716.0022},\"ID\":56,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[55],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":58}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":247.999481,\"yPos\":-593.6018},\"ID\":57,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...\",\"parentUIDs\":[56],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":59}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":243.99942,\"yPos\":-474.4032},\"ID\":58,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Oh
+    my god, that was\u2026 hilarious!\",\"parentUIDs\":[57],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":60}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":247.999481,\"yPos\":-351.20282},\"ID\":59,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"I
     am shocked at how good that impression was; that really cheered me up. Thanks,
-    MC.\",\"parentUIDs\":[58],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":61}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":341.199951,\"yPos\":2573.599},\"ID\":60,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Wow,
-    MC, that might be the funniest thing I\u2019ll see all day.\",\"parentUIDs\":[59],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":62}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":349.200073,\"yPos\":2691.19922},\"ID\":61,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"All
+    MC.\",\"parentUIDs\":[58],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":61}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":243.199371,\"yPos\":-220.0031},\"ID\":60,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Wow,
+    MC, that might be the funniest thing I\u2019ll see all day.\",\"parentUIDs\":[59],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":62}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":251.1995,\"yPos\":-102.403214},\"ID\":61,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"All
     day? Ha! Just wait and see for my prank on Ashley. That will knock your socks
-    off.\",\"parentUIDs\":[60],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":63}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":346,\"yPos\":2809.59863},\"ID\":62,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"On
-    who did you say?\",\"parentUIDs\":[61],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":64}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":350.800049,\"yPos\":2931.19922},\"ID\":63,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...
-    I got to run.\",\"parentUIDs\":[62],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":351.6001,\"yPos\":3045.59863},\"ID\":64,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(David
+    off.\",\"parentUIDs\":[60],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":63}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":247.999481,\"yPos\":15.995163},\"ID\":62,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"On
+    who did you say?\",\"parentUIDs\":[61],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Ashley\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":64}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":252.799469,\"yPos\":137.595871},\"ID\":63,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"...
+    I got to run.\",\"parentUIDs\":[62],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"David\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":253.599518,\"yPos\":251.994949},\"ID\":64,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(David
     runs away)\",\"parentUIDs\":[63],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
@@ -2418,7 +2418,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 3
-  json: '{"Options":[{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":55.5,"yPos":147},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"Yes","parentUIDs":[0],"SpeechUID":-1},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":425.5,"yPos":157},"ID":2,"ParamActions":[],"TMPFontGUID":null,"Text":"No","parentUIDs":[0],"SpeechUID":-1}],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":1},{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":2}],"EditorInfo":{"isRoot":true,"xPos":268,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Hey
+  json: '{"Options":[{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":-116.5,"yPos":147},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"Yes","parentUIDs":[0],"SpeechUID":-1},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":253.5,"yPos":157},"ID":2,"ParamActions":[],"TMPFontGUID":null,"Text":"No","parentUIDs":[0],"SpeechUID":-1}],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":1},{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":2}],"EditorInfo":{"isRoot":true,"xPos":96,"yPos":22},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Hey
     MC! Are you excited for lunch today? I heard they were serving Nuggets with real
     white meat today!","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Rick","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
@@ -2480,11 +2480,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 5
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":256,\"yPos\":18.7999878},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"It\u2019s
-    alright, bud; we all make mistakes.\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":251.6,\"yPos\":151.199982},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"That
-    felt like a big one.\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":249.200043,\"yPos\":273.599976},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Hey,
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":185.6,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"It\u2019s
+    alright, bud; we all make mistakes.\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":181.200012,\"yPos\":154.4},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"That
+    felt like a big one.\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":178.800049,\"yPos\":276.8},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Hey,
     don\u2019t sweat it, I\u2019m sure they\u2019ll forgive you, and if they don\u2019t,
-    f...\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":253.200043,\"yPos\":392.8},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Bell
+    f...\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":182.800049,\"yPos\":396},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Bell
     Rings)\",\"parentUIDs\":[2],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":null,\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
@@ -2546,12 +2546,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 8
-  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":34.9000244,\"yPos\":170.000015},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yes 
-    \",\"parentUIDs\":[3],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":420.900024,\"yPos\":171.000015},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"No\",\"parentUIDs\":[3],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":246.400024,\"yPos\":-89.9999847},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Alright,
-    food time! Got to find my buds first!)\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":250.900024,\"yPos\":31.0000153},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Hey
-    MC! Good to see you. You going to sit down with us?\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":434.900024,\"yPos\":271},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Oh,
+  json: "{\"Options\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":7}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-115.5,\"yPos\":282},\"ID\":4,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Yes 
+    \",\"parentUIDs\":[3],\"SpeechUID\":-1},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":6}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":270.5,\"yPos\":283},\"ID\":5,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"No\",\"parentUIDs\":[3],\"SpeechUID\":-1}],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":3}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":96,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"(Alright,
+    food time! Got to find my buds first!)\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":4},{\"__type\":\"EditableOptionConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":5}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":100.5,\"yPos\":143},\"ID\":3,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Hey
+    MC! Good to see you. You going to sit down with us?\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":284.5,\"yPos\":383},\"ID\":6,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Oh,
     alright, I\u2019m guessing you need to use the restroom? Well, hurry up and come
-    back here!\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":28.9000244,\"yPos\":272},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Fantastic!
+    back here!\",\"parentUIDs\":[5],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":-121.5,\"yPos\":384},\"ID\":7,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Fantastic!
     Why don\u2019t you get some food first? We wait for you before we talk about
     anything.\",\"parentUIDs\":[4],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
@@ -2675,7 +2675,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 5685238955137026019, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &1786506459
 GameObject:
@@ -2707,9 +2707,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 3
-  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":269.199982,\"yPos\":22},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Alright,
-    MC, it was good to see you, but I got to run to class; I\u2019ll catch you later.\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":266.800018,\"yPos\":140.8},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"See
-    you later, Joe!\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":269.2,\"yPos\":255.2},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Joe
+  json: "{\"Options\":[],\"Parameters\":[],\"SpeechNodes\":[{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":1}],\"EditorInfo\":{\"isRoot\":true,\"xPos\":148.800018,\"yPos\":-4.400009},\"ID\":0,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Alright,
+    MC, it was good to see you, but I got to run to class; I\u2019ll catch you later.\",\"parentUIDs\":[],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"Joe\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[{\"__type\":\"EditableSpeechConnection:#DialogueEditor\",\"Conditions\":[],\"NodeUID\":2}],\"EditorInfo\":{\"isRoot\":false,\"xPos\":146.400055,\"yPos\":114.399994},\"ID\":1,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"See
+    you later, Joe!\",\"parentUIDs\":[0],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"MC\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0},{\"Connections\":[],\"EditorInfo\":{\"isRoot\":false,\"xPos\":148.800049,\"yPos\":228.799988},\"ID\":2,\"ParamActions\":[],\"TMPFontGUID\":null,\"Text\":\"Joe
     leaves\",\"parentUIDs\":[1],\"AdvanceDialogueAutomatically\":false,\"AudioGUID\":null,\"AutoAdvanceShouldDisplayOption\":false,\"IconGUID\":null,\"Name\":\"\",\"OptionUIDs\":null,\"SpeechUID\":0,\"TimeUntilAdvance\":0,\"Volume\":0}]}"
   saveVersion: 110
   DefaultName: 
@@ -2811,7 +2811,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 2
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!114 &1869787929
 MonoBehaviour:
@@ -2849,7 +2849,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: 6498363958085415614, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &1974100360
 GameObject:
@@ -2920,7 +2920,7 @@ MonoBehaviour:
       m_Calls: []
   NodeID: 0
   TMPFont: {fileID: 0}
-  Icon: {fileID: 0}
+  Icon: {fileID: -6300433899113185851, guid: a740109fdef3e7e40a4489bc5e7e83b1, type: 3}
   Audio: {fileID: 0}
 --- !u!1 &2088008731
 GameObject:
