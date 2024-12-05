@@ -54,6 +54,10 @@ public class PlayerMovement : MonoBehaviour
                 npc.Speak();
                 _isSpeaking = true;
             }
+            if (hit.collider != null && hit.collider.TryGetComponent(out DoorController door))
+            {
+                door.Use();
+            }
         }
     }
 
