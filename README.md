@@ -15,13 +15,10 @@ The story follows a player character diagnosed with Autism at a young age, navig
 
 ## Features
 - 🗺️ **2D Open world map**: The game takes place in a school, areas are connected by hallways and their are multiple people and areas you can visit while still being confined to the boundaries of the school.   
-- Dialogue Choices
-Anytime the MC interacts with an important NPC, there are 3 choices that the MC gets to choose from and depending on the joy meter, certain responses might be mostly positive, or mostly negative. 
- ...
+- 👥 **Dialogue Choices**: Anytime the MC interacts with an important NPC, there are 3 choices that the MC gets to choose from and depending on the joy meter, certain responses might be mostly positive, or mostly negative. 
+- 🛣️ **Multiple endings**: This includes a True bad ending, different bittersweet endings, and true good ending that should be very difficult to acquire. 
 
-### Screenshots
-Include visuals to showcase game.
-...
+---
 
 ### **Installation Instructions**
 1. Download [Unity Hub](https://unity.com/ru/download "Download Hub")
