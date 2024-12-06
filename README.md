@@ -1,7 +1,7 @@
 
 # Conditioning game
 ### Contributors:
-Sanyo4ek373, vorobiova2005, AnnaHana25, VollodinGleb
+Sanyo4ek373, vorobiova2005, AnnaHana25, VollodinGleb, DarynaVdovychenko
 
 ## Description
 Conditioning is a short narrative-driven video game inspired by titles like One of Them and Depression Quest. It explores the challenges of living with Autism, focusing on how current school systems often single out Autistic kids, impacting their confidence and sense of belonging.
