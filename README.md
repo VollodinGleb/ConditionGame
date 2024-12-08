@@ -1,7 +1,7 @@
 
 # Conditioning game
-### Contributors
-**Sanyo4ek373, vorobiova2005, AnnaHana25, VollodinGleb**
+### Contributors:
+Sanyo4ek373, vorobiova2005, AnnaHana25, VollodinGleb, DarynaVdovychenko
 
 ## Description
 Conditioning is a short narrative-driven video game inspired by titles like One of Them and Depression Quest. It explores the challenges of living with Autism, focusing on how current school systems often single out Autistic kids, impacting their confidence and sense of belonging.
@@ -14,13 +14,11 @@ The story follows a player character diagnosed with Autism at a young age, navig
 - Unique features: (e.g., engaging storyline, innovative mechanics)  
 
 ## Features
-- 🎮 **Gameplay Mechanics**: ...  
-- 🌍 **World Design**: ...  
-- ...
+- 🗺️ **2D Open world map**: The game takes place in a school, areas are connected by hallways and their are multiple people and areas you can visit while still being confined to the boundaries of the school.   
+- 👥 **Dialogue Choices**: Anytime the MC interacts with an important NPC, there are 3 choices that the MC gets to choose from and depending on the joy meter, certain responses might be mostly positive, or mostly negative. 
+- 🛣️ **Multiple endings**: This includes a True bad ending, different bittersweet endings, and true good ending that should be very difficult to acquire. 
 
-### Screenshots
-Include visuals to showcase game.
-...
+---
 
 ### **Installation Instructions**
 1. Download [Unity Hub](https://unity.com/ru/download "Download Hub")
